@@ -1,0 +1,7 @@
+interface:
+  display_name: "Learning-First Development"
+  short_description: "Keep software progress aligned with user understanding"
+  default_prompt: "Use $learning-first-development to keep this change understandable, incremental, and verifiably owned."
+
+policy:
+  allow_implicit_invocation: false
